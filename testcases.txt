@@ -1,0 +1,10 @@
+Test cases for iTunes search service
+
+1. Search null parameter
+2. Search empty term parameter
+3. Search term parameter
+4. Search term, country parameter 
+5. Search invalid country parameter
+6. Search term,country and media parameter
+7. Search invalid media parameter
+8. Search term, country, media, limit parameter
